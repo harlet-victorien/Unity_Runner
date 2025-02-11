@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: f3491d589aa53d34fa32196179738438
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_lightCookieMaterial: {fileID: -4586444591600750072, guid: 6454436e193f71342a65d661b812038a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
